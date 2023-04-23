@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Scrum_Project:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Scrum_Project_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Scrum_Project/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Scrum_Project" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
